@@ -1,0 +1,12 @@
+# Light and dark themes for the SMS Spam Detector app; users switch between them in the Streamlit menu.
+[theme.light]
+primaryColor = "#7c3aed"
+backgroundColor = "#f8fafc"
+secondaryBackgroundColor = "#eef2ff"
+textColor = "#0f172a"
+
+[theme.dark]
+primaryColor = "#a78bfa"
+backgroundColor = "#0f172a"
+secondaryBackgroundColor = "#1e293b"
+textColor = "#e2e8f0"

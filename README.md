@@ -2,6 +2,10 @@
 
 A machine-learning application that classifies a text message as **Spam** or **Not Spam**. It is built on the UCI SMS Spam Collection with scikit-learn and served through a Streamlit interface.
 
+| Spam example | Normal message | Dark mode |
+|---|---|---|
+| ![App showing a spam prediction](images/app-spam.png) | ![App showing a not-spam prediction](images/app-ham.png) | ![App in dark mode showing a spam prediction](images/app-dark.png) |
+
 > This is a portfolio project. The model is a classical machine-learning classifier and can make mistakes. It was trained and evaluated on SMS data only and has not been validated on WhatsApp or other message types.
 
 ## Results at a glance
